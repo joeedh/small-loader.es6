@@ -13,3 +13,6 @@ Sourcemaps are supported.
 * Sourcemaps are sometimes off by one line
 * Debugging breakpoints aren't working in Chrome.
 * Only works in strict mode.
+
+## Usage
+Small-loader.es6 must be run inside a web server (due to HTML security issues with XMLHttpRequest).  You can use the included python script, serv.py, or run your own.
