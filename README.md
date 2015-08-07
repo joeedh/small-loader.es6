@@ -1,5 +1,5 @@
 # small-loader.es6
-A crude transpiler that only supports ES6 module syntax.
+A simple, crude transpiler that only supports ES6 module syntax.
 
 # Introduction
 Browser vendors seem in no hurry to implement ES6 modules, but they have started implementing other 
